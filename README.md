@@ -78,8 +78,8 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Author
 
-- Website - [CletsyMedia](https://cletsymedia.github.io/Prof-Portfolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CletsyMedia)
+- Website - [Cletsymedia.github](https://cletsymedia.github.io/Prof-Portfolio/)
+- Frontend Mentor - [CletsyMedia](https://www.frontendmentor.io/profile/CletsyMedia)
 
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
