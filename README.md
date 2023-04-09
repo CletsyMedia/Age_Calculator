@@ -58,7 +58,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ### Links
 
-- Solution URL: [Get code](hhttps://github.com/CletsyMedia/Age_Calculator)
+- Solution URL: [Get code](https://github.com/CletsyMedia/Age_Calculator)
 - Live Site URL: [View site](https://cletsymedia.github.io/Age_Calculator/)
 
 ## My process
